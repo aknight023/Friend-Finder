@@ -8,9 +8,10 @@ Friend Finder is meant to simulate a simple dating app.
 
 ## Tech
 
-nodejs
-express
-bootstrap
+* Nodejs
+* Express
+* Bootstrap
+
 
 ## Live Site
 	
